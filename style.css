@@ -1,0 +1,102 @@
+.wrap{
+	background: blue;
+	width: 900px;
+	margin: 10px auto;
+}
+
+.wrap .header{
+	background: url('image/w.jpg');
+        border: 1px solid blue;
+        color: white;
+	/*height: 12px;*/
+	padding: 3px 10px;
+}
+ 
+.wrap .menu{
+      background: url('image/b.jpg');
+	font-size : 14;
+	max-width:1000px;
+        height:30px;
+	border: 1px solid blue;
+        text-align: center;
+}
+ 
+.wrap .menu ul{
+	padding: 0;
+	margin: 0;
+	background: ;
+	overflow: hidden;
+}
+ 
+.wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+
+ 
+.clear{
+	clear: both;
+}
+ 
+.badan{
+	height: 450px;
+}
+
+.badan{
+	height: 450px;
+}
+.wrap .menu_kiri{
+	background: url('image/v.jpg');
+	color:white;
+	float: left;	
+	width: 25%;
+	height: 100%;
+}
+ 
+.wrap .content{
+	background: url('image/l.jpg');
+	float: left;
+	color: white;
+	height: 100%;
+	width: 75%;
+}
+#more 
+	{display: none;
+}
+.wrap .footer{
+	background: url('image/b.jpg');
+	padding: 1px 10px;
+	width: 98%;
+	
+}
+.justify{
+	text-align: justify;
+}
+.center{ 
+	text-align: center;
+}
+.left{ 
+	text-align: left;
+}
+.right{ 
+	text-align: right;
+}
+.box{
+	background: white;
+	position: absolute;
+	left:25%;
+	height: 200%;
+	width: 700px;
+	margin: 6px;
+}
+.margin { 
+	margin: 15 px 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left: 15px;
+	margin-right: 25px;
+}
+.body{
+	cursor: url("image/cursor.png"), auto;
+}
