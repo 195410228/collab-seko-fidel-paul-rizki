@@ -1,1 +1,1 @@
-# collab-seko-fidel-paul-rizki
+# collab-seko-fidel-paul-rizky
